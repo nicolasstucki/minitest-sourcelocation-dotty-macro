@@ -1,0 +1,9 @@
+target/*
+project/target/*
+
+.dotty-ide-artifact
+.dotty-ide.json
+
+*.class
+*.tasty
+*.hasTasty
